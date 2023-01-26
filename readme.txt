@@ -1,0 +1,1 @@
+The degree of use of object-oriented programs is spread between 1-4 and it is aimed to use 4 basic OOP principles (Encapsulation, Inheritence, Abstraction, Polymorphism)
